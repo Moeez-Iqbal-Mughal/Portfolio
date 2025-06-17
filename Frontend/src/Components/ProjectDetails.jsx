@@ -18,8 +18,8 @@ const ProjectDetail = () => {
   useEffect(() => {
     const fetchProjectDetails = async () => {
       try {
-        // const response = await axios.get(`https://portfolio-8xe9.onrender.com/projects/${id}`);
-        const response = await axios.get(`http://localhost:3000/projects/${id}`)
+        const response = await axios.get(`https://portfolio-tonv.onrender.com/projects/${id}`);
+        // const response = await axios.get(`http://localhost:3000/projects/${id}`)
         setProject(response.data)
       } catch (err) {
         setError(err)
@@ -43,8 +43,8 @@ const ProjectDetail = () => {
   }
 
   const getFullImageUrl = (relativePath) => {
-    // return `https://portfolio-8xe9.onrender.com${relativePath.replace('../../', '/')}`;
-    return `http://localhost:3000${relativePath.replace("../../", "/")}`
+    return `https://portfolio-tonv.onrender.com${relativePath.replace('../../', '/')}`;
+    // return `http://localhost:3000${relativePath.replace("../../", "/")}`
   }
 
   return (
