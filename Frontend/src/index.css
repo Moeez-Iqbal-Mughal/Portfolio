@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.test-class{
+    width: 482px;
+}
+
+/* Example CSS adjustments */
+section {
+    margin-bottom: 2rem;
+  }
+  
+  section:last-of-type {
+    margin-bottom: 0;
+  }
+
+  /* Assuming this is in your CSS file */
+header {
+  z-index: 100; /* Or any value higher than your cards */
+  position: relative; /* Make sure it's positioned so z-index works */
+}
+
+.project-card {
+  z-index: 50; /* Or any value lower than the header */
+  position: relative; /* Ensure it is positioned properly */
+}
+
+  
