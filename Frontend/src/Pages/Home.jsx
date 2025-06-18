@@ -98,7 +98,7 @@ function Home() {
           <ServiceCard
             icon={<FaReact className="text-3xl text-orange-500 sm:text-4xl" />}
             title="Front End Development"
-            description="As a front-end developer, I specialize in creating the visual and interactive aspects of web applications using technologies like HTML, CSS, and JavaScript, along with frameworks such as React. My focus is on building responsive and user-friendly interfaces."
+            description="As a front-end developer, I specialize in creating the visual and interactive aspects of web applications using technologies like HTML, CSS, and JavaScript, along with frameworks such as React. My focus is on building responsive Scalable and user-friendly interfaces."
           />
           <ServiceCard
             icon={<FaNode className="text-3xl text-orange-500 sm:text-4xl" />}
