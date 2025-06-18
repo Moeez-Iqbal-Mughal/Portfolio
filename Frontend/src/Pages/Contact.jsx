@@ -78,14 +78,14 @@ function Contact() {
               <div className="w-16 h-0.5 bg-gray-400 hidden sm:block"></div>
               <div className="flex gap-4 mt-2 sm:mt-0">
                 <a
-                  href="https://www.linkedin.com/in/Moeez-Iqbal"
+                  href="https://www.linkedin.com/in/moeez-iqbal/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <IoLogoLinkedin className="text-gray-400 text-2xl sm:text-3xl hover:text-orange-500 transform transition-transform duration-300 hover:-translate-y-2" />
                 </a>
                 <a
-                  href="https://github.com/Moeez-Iqbal"
+                  href="https://github.com/Moeez-Iqbal-Mughal"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
