@@ -25,7 +25,7 @@ function Project() {
         </h1>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-8 md:mt-16">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-8 md:mt-16 mr-4">
       <ProjectCard
           id={1}
           image={FlexiFly}
