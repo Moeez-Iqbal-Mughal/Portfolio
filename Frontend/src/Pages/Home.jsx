@@ -202,7 +202,7 @@ function Home() {
               icon={
                 <IoMdMail className="text-2xl sm:text-3xl text-white hover:text-orange-500" />
               }
-              details="moeeziqbalmughal@gmail.com"
+              details="moeez.iqbal.work@gmail.com"
             />
             <ContactInfo
               icon={

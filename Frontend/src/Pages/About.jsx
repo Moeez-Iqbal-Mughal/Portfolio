@@ -92,7 +92,7 @@ function About() {
                 Email:
               </h1>
               <p className="text-white text-xl sm:text-lg font-semibold">
-                moeeziqbalmughal@gmail.com
+                moeez.iqbal.work@gmail.com
               </p>
             </div>
           </div>
