@@ -1,5 +1,5 @@
 import { FaDownload } from "react-icons/fa";
-import Resume from '../assets/Resumee.pdf'
+import Resume from '../assets/Resume.pdf'
 
 const handleDownload = () => {
   const link = document.createElement("a");
