@@ -8,4 +8,4 @@ A full-stack portfolio website to showcase projects, skills, and experience. Bui
 - 🔐 Secure backend setup with Sequelize ORM
 - ✨ Beautiful animations and clean UI
 
-Live Demo: [portfolio-moeez-iqbal.vercel.app](https://portfolio-moeez-iqbal.vercel.app/) 
+
